@@ -40,6 +40,7 @@ Breadboard and jumper wires
 
 📷 Hardware setup:
 
+![Hardware Setup](iot_circuit.png)
 
 🛠️ Software Requirements
 
